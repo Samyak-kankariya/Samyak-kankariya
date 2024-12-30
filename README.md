@@ -8,10 +8,9 @@ I'm a passionate developer with interests in web development and networking. I l
 - 🌱 I’m currently learning UI/UX and Amazon Web Services
 - 👯 I’m looking to collaborate on Front-end projects
 - 💬 Ask me about web development and networking
-- 📫 Let's connect : [LinkedIn](https://www.linkedin.com/in/samyak-kankariya)
 
 ## Ask Me About
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20Me-Anything-1abc9c.svg)](https://github.com/samyak-kankariya/samyak-kankariya/issues/new) ![](https://komarev.com/ghpvc/?username=samyak-kankariya))
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20Me-Anything-1abc9c.svg)](https://github.com/samyak-kankariya/samyak-kankariya/issues/new)
   
 ## Technologies & Tools
 - Programming Languages: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -32,5 +31,9 @@ I'm a passionate developer with interests in web development and networking. I l
 - [Personal Portfolio](https://github.com/Samyak-kankariya/portfolio)
 
 ## Connect with Me
-- [Mail](samyakkankariya0011@gmail.com)
+- [Mail](samyakkankariya0011@gmail.com) 
 - [LinkedIn](https://linkedin.com/in/samyak-kankariya)
+
+## Connect with Me
+- [![Mail](https://img.shields.io/badge/Email-samyak%20kankariya-blue?style=flat&logo=gmail&logoColor=white)](mailto:samyakkankariya0011@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-samyak%20kankariya-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/samyak-kankariya)
