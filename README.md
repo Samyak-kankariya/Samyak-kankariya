@@ -31,9 +31,5 @@ I'm a passionate developer with interests in web development and networking. I l
 - [Personal Portfolio](https://github.com/Samyak-kankariya/portfolio)
 
 ## Connect with Me
-- [Mail](samyakkankariya0011@gmail.com) 
-- [LinkedIn](https://linkedin.com/in/samyak-kankariya)
-
-## Connect with Me
 - [![Mail](https://img.shields.io/badge/Email-samyak%20kankariya-blue?style=flat&logo=gmail&logoColor=white)](mailto:samyakkankariya0011@gmail.com)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-samyak%20kankariya-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/samyak-kankariya)
